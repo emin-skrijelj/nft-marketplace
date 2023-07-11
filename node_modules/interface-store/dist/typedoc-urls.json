@@ -1,0 +1,6 @@
+{
+  "AbortOptions": "https://ipfs.github.io/js-stores/interfaces/blockstore_core._internal_.AbortOptions.html",
+  "Store": "https://ipfs.github.io/js-stores/interfaces/blockstore_core._internal_.Store.html",
+  "Await": "https://ipfs.github.io/js-stores/types/blockstore_core._internal_.Await.html",
+  "AwaitIterable": "https://ipfs.github.io/js-stores/types/blockstore_core._internal_.AwaitIterable.html"
+}
